@@ -1,7 +1,8 @@
-package licy.open.calculator
+package licy.open.calculator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import licy.open.calculator.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
